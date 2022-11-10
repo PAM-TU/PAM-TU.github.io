@@ -535,7 +535,8 @@ footer .social {
 }
 .landing .homeBtn, .landing .landingSlogan, .landing .underConstruction {
   margin-bottom: 5vh;
-  color: #3f3f3f;
+  /*color: #3f3f3f;*/
+  color: #ffffff;
 }
 @media (max-width: 768px) {
   .landing .homeBtn, .landing .landingSlogan, .landing .underConstruction {
