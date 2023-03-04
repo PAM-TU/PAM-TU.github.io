@@ -431,7 +431,7 @@ img {
 footer {
   position: relative;
   display: grid;
-  z-index: -1;
+  /*z-index: -1;*/
   grid-template-columns: 16vw repeat(3, 1fr);
   grid-template-areas: "side visit dir connect";
 }
